@@ -1,0 +1,10 @@
+/Users/lalla/Desktop/DemoApp/DemoApp.API/bin/Debug/netcoreapp2.0/DemoApp.API.deps.json
+/Users/lalla/Desktop/DemoApp/DemoApp.API/bin/Debug/netcoreapp2.0/DemoApp.API.runtimeconfig.json
+/Users/lalla/Desktop/DemoApp/DemoApp.API/bin/Debug/netcoreapp2.0/DemoApp.API.runtimeconfig.dev.json
+/Users/lalla/Desktop/DemoApp/DemoApp.API/bin/Debug/netcoreapp2.0/DemoApp.API.dll
+/Users/lalla/Desktop/DemoApp/DemoApp.API/bin/Debug/netcoreapp2.0/DemoApp.API.pdb
+/Users/lalla/Desktop/DemoApp/DemoApp.API/obj/Debug/netcoreapp2.0/DemoApp.API.csproj.CoreCompileInputs.cache
+/Users/lalla/Desktop/DemoApp/DemoApp.API/obj/Debug/netcoreapp2.0/DemoApp.API.AssemblyInfoInputs.cache
+/Users/lalla/Desktop/DemoApp/DemoApp.API/obj/Debug/netcoreapp2.0/DemoApp.API.AssemblyInfo.cs
+/Users/lalla/Desktop/DemoApp/DemoApp.API/obj/Debug/netcoreapp2.0/DemoApp.API.dll
+/Users/lalla/Desktop/DemoApp/DemoApp.API/obj/Debug/netcoreapp2.0/DemoApp.API.pdb
